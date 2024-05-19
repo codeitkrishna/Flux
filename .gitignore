@@ -1,0 +1,15 @@
+# Ignore files and directories in the root directory
+/.DS_Store
+/Thumbs.db
+
+# Ignore directories
+/node_modules/
+/dist/
+
+# Ignore specific files
+/secret.txt
+/config.ini
+
+# Ignore all files with a specific extension
+*.log
+*.tmp
