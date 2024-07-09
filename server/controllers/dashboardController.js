@@ -1,0 +1,5 @@
+// monthly income (line graph)
+// monthly expenses (line graph)
+// bank account number, current balance (atm card animated)
+// money flow (bar graph - income, expends, profit - per month)
+// expends due (shared expends, monthly subscription)
